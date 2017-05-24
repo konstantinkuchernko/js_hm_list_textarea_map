@@ -1,0 +1,21 @@
+/*
+* @Author: konstantinkuchernko
+* @Date:   2017-05-16 22:36:35
+* @Last Modified by:   konstantinkuchernko
+* @Last Modified time: 2017-05-16 23:19:45
+*/
+
+#block, #area {
+	width: 400px;
+	height: 100px;
+}
+
+#block {
+	border-top: 1px solid grey;
+}
+
+#area {
+	display: none;
+}
+
+
